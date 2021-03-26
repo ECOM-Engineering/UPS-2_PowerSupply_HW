@@ -21,6 +21,7 @@ fp-info-cache
 Korrespondenz/*
 CapacitorsEval/*
 Production/Offertanfrage/*
+project_components/*
 *.url
-https*
+https*git add
 *.csv
