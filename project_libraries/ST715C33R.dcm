@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ST715C33R
+D High input voltage, 85 mA LDO linear regulator
+K voltage regulator 3.3V
+$ENDCMP
+#
+#End Doc Library

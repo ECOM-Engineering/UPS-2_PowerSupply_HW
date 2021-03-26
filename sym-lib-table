@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name Power_Mux)(type Legacy)(uri ${KIPRJMOD}/project_libraries/Power_Mux.lib)(options "")(descr ""))
+  (lib (name UPS-2-rescue)(type Legacy)(uri ${KIPRJMOD}/UPS-2-rescue.lib)(options "")(descr ""))
+  (lib (name ST715C33R)(type Legacy)(uri ${KIPRJMOD}/project_libraries/ST715C33R.lib)(options "")(descr ""))
+  (lib (name power1)(type Legacy)(uri ${KIPRJMOD}/project_libraries/power.lib)(options "")(descr ""))
+  (lib (name device)(type Legacy)(uri ${KIPRJMOD}/project_libraries/device.lib)(options "")(descr ""))
+  (lib (name raspberrypi_hat)(type Legacy)(uri ${KIPRJMOD}/project_libraries/raspberrypi_hat.lib)(options "")(descr ""))
+  (lib (name STM32)(type Legacy)(uri ${KIPRJMOD}/project_libraries/STM32.lib)(options "")(descr ""))
+)

@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32G030Fx
+D Cortex M0+, 8kRAM, 16k/32k/64k Flash, 64MHz
+F https://www.st.com/resource/en/datasheet/stm32g030c6.pdf
+$ENDCMP
+#
+#End Doc Library

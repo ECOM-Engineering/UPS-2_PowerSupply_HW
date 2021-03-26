@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name project_footprints)(type KiCad)(uri "$(KIPRJMOD)/project_footprints.pretty")(options "")(descr ""))
+  (lib (name digikey-footprints)(type KiCad)(uri F:/KiCad-Libs/digikey-footprints.pretty)(options "")(descr "")(disabled))
+  (lib (name EdaSnap-footprints)(type KiCad)(uri F:/KiCad-Libs/SnapEda/TPS2121RUXR.pretty)(options "")(descr ""))
+)
