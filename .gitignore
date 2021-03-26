@@ -25,4 +25,4 @@ project_components/*
 *.url
 https*git add
 *.csv
-# VoltageDevider_2.ods
+VoltageDevider_2.ods
