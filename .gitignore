@@ -23,6 +23,6 @@ CapacitorsEval/*
 Production/Offertanfrage/*
 project_components/*
 *.url
-https*git add
+https:*
 *.csv
 VoltageDevider_2.ods
