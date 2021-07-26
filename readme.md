@@ -57,28 +57,9 @@ For Jumper Settings and functions please refer to the [UPS-2_User Guide](../UPS-
 
 ###  PCB
 
-Board outline corresponds to the Raspberry-Pi Hat specification. It is a 2 1.6mm Layer PCB using 0805 SMD components, wherever possible.
+Board outline corresponds to the mechanical Raspberry-Pi Hat specification.   
+UPS-2 uses a 1.6mm 2-layer PCB.
 
-
-
-<figure>
-  <img
-  src="..\UPS-2-Project-repository\UPS-2_Uninteruptible-Power-Supply\images\UPS-2_on_Raspi_4B.png"
-  alt="UPS-2 Hat connections">
-    <figcaption><b>UPS-2 mounted on Paspberry 4B</b></figcaption>
-</figure>
-
-
-
-
-
-
-<figure>
-  <img
-  src="../images/P1070253_cut.JPG" 
-  alt="UPS-2 uses stack through connector + long pin header">
-    <figcaption><b>UPS-2 uses stack through connector + long pin header</b></figcaption>
-</figure>
 
 
 
