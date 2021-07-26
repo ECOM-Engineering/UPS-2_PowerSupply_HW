@@ -63,7 +63,7 @@ Board outline corresponds to the Raspberry-Pi Hat specification. It is a 2 1.6mm
 
 <figure>
   <img
-  src="../UPS-2-Project-repository/UPS-2_Uninteruptible-Power-Supply/images/P1070269_cut.jpg" 
+  src="..\UPS-2-Project-repository\UPS-2_Uninteruptible-Power-Supply\images\P1070269_cut.JPG"
   alt="UPS-2 Hat connections">
     <figcaption><b>UPS-2 mounted on Paspberry 4B</b></figcaption>
 </figure>
